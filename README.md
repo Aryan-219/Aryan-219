@@ -47,9 +47,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Aryan-219/count.svg?"  />
-</div>
-
-###
