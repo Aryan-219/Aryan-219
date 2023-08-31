@@ -48,8 +48,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Aryan-219/Aryan-219/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Aryan-219/count.svg?"  />
+</div>
 
 ###
