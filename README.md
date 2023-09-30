@@ -47,3 +47,4 @@
 </div>
 
 ###
+[![An image of @aryan219's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryan219)](https://holopin.io/@aryan219)
