@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Aryan and I'm a Student at Jabalpur Engineering College, JBP. I am currently learning Advance Java.</h2>
+<h2 align="center">Hi 👋! My name is Aryan and I'm a Student at Jabalpur Engineering College, JBP.</h2>
 
 ###
 
